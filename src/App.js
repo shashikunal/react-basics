@@ -1,10 +1,10 @@
 import React from "react";
-import RegisterComponent from "./Components/FormsComponent/RegisterComponent";
+import ShoppingList from "./Components/ShoppingComponents/ShoppingList";
 
 function App() {
   return (
     <div className="container my-4">
-      <RegisterComponent />
+      <ShoppingList />
     </div>
   );
 }
